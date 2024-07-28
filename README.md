@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksei Zuev
 - 👀 I’m interested and constantly learning new things in Kotlin and Android
-- 🌱 I am currently doing pet-projects and looking for a job
+- 🌱 I am currently working and looking for a job
 - 📫 How to reach me:
     - [Telegram](https://t.me/zuev_al): @zuev_al
     - Email: a.zuev98@ya.ru
